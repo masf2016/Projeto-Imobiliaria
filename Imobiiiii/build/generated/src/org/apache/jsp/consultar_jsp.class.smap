@@ -1,0 +1,15 @@
+SMAP
+consultar_jsp.java
+JSP
+*S JSP
+*F
++ 0 consultar.jsp
+consultar.jsp
+*L
+5,44:46
+48,52:90
+100:142,3
+101:145
+102:146,12
+103,53:158
+*E
